@@ -41,8 +41,5 @@ If the token is missing or invalid, the server typically returns `401 Unauthoriz
 - JSON Web Token (JWT)
 - Spring Security (for applications configured to use it)
 
-## 🎯 Purpose
 
-This diagram is intended for beginners who want to understand the JWT authentication flow and the difference between authentication and authorization.
 
-*The examples illustrate a typical JWT-based system and do not claim that any specific service uses JWT.*
