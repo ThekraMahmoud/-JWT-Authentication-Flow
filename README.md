@@ -7,9 +7,7 @@ A simple visual guide explaining how **JSON Web Token (JWT)** works, from user l
 [**Open the JWT Authentication Flow Diagram in draw.io**](https://app.diagrams.net/#Wb!ghqVtJCFdUytTwzFTOtAvHn9YWtwsE9PryY9Rw-R7BCR_2gLxyziR4iKEo-uIlLN%2F01FW2NZY2P2JJYSYDQMNAKAGBLQP3V7A57#%7B%22pageId%22%3A%22NrvJatMGmpTUp3HjqgCJ%22%7D)
 
 ## 🖼️ Diagram Preview
-
-<!-- Add your poster image here -->
-<!-- Example: ![JWT Authentication Flow](images/jwt-flow.png) -->
+![JWT Authentication Flow](jwt-flow.drawio.png)-->
 
 ## 🔍 How JWT Works
 
